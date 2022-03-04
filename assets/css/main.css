@@ -159,8 +159,8 @@ input, select, textarea {
 	}
 
 		a:hover {
-			border-bottom-color: #f56a6a;
-			color: #f56a6a !important;
+			border-bottom-color: #f3faff;
+			color:#f3faff !important;
 		}
 
 			a:hover strong {
@@ -3098,7 +3098,7 @@ input, select, textarea {
 			-webkit-transform: scaleX(-1);
 			-ms-transform: scaleX(-1);
 			transform: scaleX(-1);
-			color: #7f888f;
+			color: #3d4449;
 			content: '\f002';
 			cursor: default;
 			display: block;
@@ -3130,7 +3130,7 @@ input, select, textarea {
 		-webkit-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
 		-ms-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
 		transition: margin-left 0.5s ease, box-shadow 0.5s ease;
-		background-color: #add8e6;
+		background-color: #f3faff;
 		font-size: 0.9em;
 		position: relative;
 		width: 26em;
@@ -3163,7 +3163,7 @@ input, select, textarea {
 				}
 
 			#sidebar > .inner > .alt {
-				background-color: #eff1f2;
+				background-color: #7f888f;
 				border-bottom: 0;
 				margin: -2.2222222222em 0 4.4444444444em -2.2222222222em;
 				padding: 2.2222222222em;

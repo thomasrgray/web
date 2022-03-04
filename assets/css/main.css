@@ -154,7 +154,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #f56a6a;
+		color: #add8e6;
 		text-decoration: none;
 	}
 
@@ -1865,8 +1865,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: #add8e6;
+			box-shadow: 0 0 0 1px #add8e6;
 		}
 
 	select {
@@ -1969,7 +1969,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #f56a6a;
+			border-color: #add8e6;
 			box-shadow: 0 0 0 1px #f56a6a;
 		}
 
@@ -2314,7 +2314,7 @@ input, select, textarea {
 			}
 
 			ul.contact li:before {
-				color: #f56a6a;
+				color: #add8e6;
 				display: inline-block;
 				font-size: 1.5em;
 				height: 1.125em;
@@ -2373,7 +2373,7 @@ input, select, textarea {
 			}
 
 				ul.pagination li > .page.active {
-					background-color: #f56a6a;
+					background-color: #add8e6;
 					color: #ffffff !important;
 				}
 
@@ -2492,7 +2492,7 @@ input, select, textarea {
 		border-radius: 0.375em;
 		border: 0;
 		box-shadow: inset 0 0 0 2px #f56a6a;
-		color: #f56a6a !important;
+		color: #add8e6 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Roboto Slab", serif;
@@ -2573,7 +2573,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #f56a6a;
+			background-color: #add8e6;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2690,7 +2690,7 @@ input, select, textarea {
 			}
 
 				.features article .icon:before {
-					color: #f56a6a;
+					color: #add8e6;
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
@@ -3530,7 +3530,7 @@ input, select, textarea {
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f56a6a;
+				color: #add8e6;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -3564,7 +3564,7 @@ input, select, textarea {
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #f56a6a;
+					color: #add8e6;
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
